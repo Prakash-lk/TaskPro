@@ -1,16 +1,21 @@
-# taskpro
+🌟 TaskPro - Smart Task Manager
+TaskPro is a smart task management application built using Flutter. It helps users organize, collaborate, and track their tasks efficiently, offering both offline and online functionality.
 
-A new Flutter project.
+✨ Features
+Offline Mode: Add and edit tasks without an internet connection — sync automatically when back online.
+Push Notifications: Get reminders for upcoming deadlines and task updates.
+Recurring Tasks: Set tasks on repeat schedules (daily, weekly, etc.).
+Task Archive: Move completed tasks to an archive for future reference.
 
-## Getting Started
+📱 Technologies Used
+Flutter (Dart)
+SQLite (for offline storage)
+Firebase (for push notifications)
+Provider (state management)
+🚀 Getting Started
+Prerequisites
+Ensure you have the following installed:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter SDK
+Dart
+Android Studio or Visual Studio Code (with Flutter extension)
